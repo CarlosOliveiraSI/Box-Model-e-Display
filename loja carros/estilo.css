@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+   
+}
+
+
+.carro {
+    width: 400px;
+    height: 220px;    
+    background-color: #111;
+    border-radius: 4px;
+    transform: translateX(500px); 
+    align-items: center;
+    
+    
+    
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    color: white;
+    transform: translateX(10px);
+    padding-top: 20px;
+    
+}
+
+span {
+    color: #febe01;
+}
+
+p {
+    color: #b2b2b2;
+    transform: translateX(20px); 
+}
+
+button {
+    background-color: #febe01;
+    color: #332200;
+    border-radius: 4px;
+    height: 30px;
+    width: 110px;
+    transform: translateX(20px); 
+}
